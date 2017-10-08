@@ -1,0 +1,183 @@
+.boxmodel{	   
+	padding: 2px;
+	//border-color: #6b6868;
+	background-color: #acbcaf;
+	font-color: #f7f9f9 ;
+	text-align: center;
+}
+
+ul li{
+	display: inline;
+	float: left;
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration: none;
+
+}
+
+ul li a{
+	display: block;
+	text-decoration: none;
+    margin: 15px 20px 15px 15px;
+    text-align: center;
+    background-color: #FFFFE0;
+    border-radius: 16px;
+    padding: 3px 8px 1px 8px;
+    font-size: 12px;
+    letter-spacing:1px;
+}
+
+nav li{
+	display: inline;
+	float: right;
+	text-align: center;
+	height: 20px;
+	padding: 15px 8px 5px 8px;
+
+}
+
+.banner{
+	background-image:url(images/banners.jpg);
+	background-repeat: no-repeat;
+	background-position:top center;
+	background-size: 100%;
+	height: 364px;
+}
+
+.bannerright{
+	background-image:url(images/bannerright.jpg);
+	float: right;
+	width:50%;
+	background-repeat: no-repeat;
+}
+
+.panner{
+	font-family: 'MeetMeInBrooklyn-Regular';
+	font-size: 130px;
+	color: #ffffff;
+	line-height: 115px;
+	letter-spacing: 1px;
+}
+
+.create{
+	background-color: #DEDECD;
+	background-size: 100%;
+	//height: 300px;
+	padding: 74px 0 86px 0px;
+    font-size: 28px;
+    color: #666666;
+    text-align: center;
+    font-weight: 300;
+    line-height: 40px;
+}
+
+.sea{
+	color: #ffffff;
+	font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    line-height: 29px;
+}
+
+.service{
+	background-color: #EEEFE5;
+	//width: 100%;
+	//height: 300px;
+}
+
+
+.servicesBox {
+	//width:94%;
+	text-align:left;
+	font-size:14px;
+	//margin-top:30px;
+	//line-height:20px;
+}
+
+.servicesBox1 {
+	//width:94%;
+	text-align:center;
+	font-size:14px;
+	//margin-top:30px;
+	//line-height:20px;
+}
+
+.servicesBox1 {
+	width:100%;
+	//text-align:center;
+	font-size:14px;
+	//margin-top:30px;
+	//line-height:20px;
+}
+.webdesign{
+	text-align: left;
+	padding-bottom: 10px;
+	font-size: 17px;
+	text-transform: uppercase;
+	margin: 25px 10px 10px 10px;
+}
+
+.webdesign1{
+	//text-align: center;
+	padding-bottom: 10px;
+	font-size: 17px;
+	text-transform: uppercase;
+	margin: 25px 10px 10px 10px;
+}
+
+
+.design{
+	text-align: left;
+	font-size: 14px;
+
+}
+
+.design1{
+	text-align: center;
+	font-size: 14px;
+
+}
+.servicesBox2 {
+	width:100%;
+	text-align:right;
+	font-size:14px;
+	//margin-top:30px;
+	//line-height:20px;
+}
+
+.webdesign2{
+	//text-align: right;
+	padding-bottom: 10px;
+	font-size: 17px;
+	text-transform: uppercase;
+	margin: 25px 10px 10px 10px;
+}
+.design2{
+	//float: right;
+	//text-align: center;
+	font-size: 14px;
+
+}
+.media{
+	padding: 10px;
+}
+.footer1{
+	background-image:url(images/footer.jpg);
+	background-image:
+	background-size: 100%;
+	height: 1000px;
+	padding: 74px 0 86px 0px;
+    font-size: 28px;
+    color: #666666;
+    text-align: center;
+    font-weight: 300;
+    line-height: 40px;
+}
+.boxbtn{
+	padding: 30px;
+	margin: 50px 300px 0px 300px;
+	background-color:#d76713;
+	background-repeat: no-repeat;
+	border-radius: 30px;
+	color: #fff;
+	font-family: 'MeetMeInBrooklyn-Regular';
+}
