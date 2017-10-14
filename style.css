@@ -1,12 +1,13 @@
-.boxmodel{	   
+.boxmodel
+{	   
 	padding: 2px;
-	//border-color: #6b6868;
 	background-color: #acbcaf;
 	font-color: #f7f9f9 ;
 	text-align: center;
 }
 
-ul li{
+ul li
+{
 	display: inline;
 	float: left;
 	text-transform: uppercase;
@@ -15,19 +16,21 @@ ul li{
 
 }
 
-ul li a{
+ul li a
+{
 	display: block;
 	text-decoration: none;
-    margin: 15px 20px 15px 15px;
-    text-align: center;
-    background-color: #FFFFE0;
-    border-radius: 16px;
-    padding: 3px 8px 1px 8px;
-    font-size: 12px;
-    letter-spacing:1px;
+        margin: 15px 20px 15px 15px;
+        text-align: center;
+        background-color: #FFFFE0;
+        border-radius: 16px;
+        padding: 3px 8px 1px 8px;
+        font-size: 12px;
+        letter-spacing:1px;
 }
 
-nav li{
+nav li
+{
 	display: inline;
 	float: right;
 	text-align: center;
@@ -36,7 +39,8 @@ nav li{
 
 }
 
-.banner{
+.banner
+{
 	background-image:url(bannbg.jpg);
 	background-repeat: no-repeat;
 	background-position:top center;
@@ -44,14 +48,16 @@ nav li{
 	height: 364px;
 }
 
-.bannerright{
+.bannerright
+{
 	background-image:url(bannerright.jpg);
 	float: right;
 	width:50%;
 	background-repeat: no-repeat;
 }
 
-.panner{
+.panner
+{
 	font-family: 'MeetMeInBrooklyn-Regular';
 	font-size: 130px;
 	color: #ffffff;
@@ -59,56 +65,51 @@ nav li{
 	letter-spacing: 1px;
 }
 
-.create{
+.create
+{
 	background-color: #DEDECD;
 	background-size: 100%;
-	//height: 300px;
 	padding: 74px 0 86px 0px;
-    font-size: 28px;
-    color: #666666;
-    text-align: center;
-    font-weight: 300;
-    line-height: 40px;
+        font-size: 28px;
+        color: #666666;
+        text-align: center;
+        font-weight: 300;
+        line-height: 40px;
 }
 
-.sea{
+.sea
+{
 	color: #ffffff;
 	font-family: 'Raleway', sans-serif;
-    font-size: 22px;
-    line-height: 29px;
+        font-size: 22px;
+        line-height: 29px;
 }
 
-.service{
+.service
+{
 	background-color: #EEEFE5;
-	//width: 100%;
-	//height: 300px;
 }
 
 
-.servicesBox {
-	//width:94%;
+.servicesBox 
+{
 	text-align:left;
 	font-size:14px;
-	//margin-top:30px;
-	//line-height:20px;
 }
 
-.servicesBox1 {
-	//width:94%;
+.servicesBox1
+{
 	text-align:center;
 	font-size:14px;
-	//margin-top:30px;
-	//line-height:20px;
 }
 
-.servicesBox1 {
+.servicesBox1
+{
 	width:100%;
-	//text-align:center;
 	font-size:14px;
-	//margin-top:30px;
-	//line-height:20px;
 }
-.webdesign{
+.webdesign
+{
 	text-align: left;
 	padding-bottom: 10px;
 	font-size: 17px;
@@ -116,8 +117,8 @@ nav li{
 	margin: 25px 10px 10px 10px;
 }
 
-.webdesign1{
-	//text-align: center;
+.webdesign1
+{
 	padding-bottom: 10px;
 	font-size: 17px;
 	text-transform: uppercase;
@@ -125,52 +126,54 @@ nav li{
 }
 
 
-.design{
+.design
+{
 	text-align: left;
 	font-size: 14px;
 
 }
 
-.design1{
+.design1
+{
 	text-align: center;
 	font-size: 14px;
 
 }
-.servicesBox2 {
+.servicesBox2
+{
 	width:100%;
 	text-align:right;
 	font-size:14px;
-	//margin-top:30px;
-	//line-height:20px;
 }
 
-.webdesign2{
-	//text-align: right;
+.webdesign2
+{
 	padding-bottom: 10px;
 	font-size: 17px;
 	text-transform: uppercase;
 	margin: 25px 10px 10px 10px;
 }
-.design2{
-	//float: right;
-	//text-align: center;
+.design2
+{
 	font-size: 14px;
 
 }
-.media{
+.media
+{
 	padding: 10px;
 }
-.footer1{
+.footer1
+{
 	background-image:url(footer.jpg);
 	background-image:
 	background-size: 100%;
 	height: 1000px;
 	padding: 74px 0 86px 0px;
-    font-size: 28px;
-    color: #666666;
-    text-align: center;
-    font-weight: 300;
-    line-height: 40px;
+        font-size: 28px;
+        color: #666666;
+        text-align: center;
+        font-weight: 300;
+        line-height: 40px;
 }
 .boxbtn{
 	padding: 30px;
