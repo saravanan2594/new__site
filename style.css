@@ -5,7 +5,6 @@
 	font-color: #f7f9f9 ;
 	text-align: center;
 }
-
 ul li
 {
 	display: inline;
@@ -15,7 +14,6 @@ ul li
 	text-decoration: none;
 
 }
-
 ul li a
 {
 	display: block;
@@ -28,7 +26,6 @@ ul li a
         font-size: 12px;
         letter-spacing:1px;
 }
-
 nav li
 {
 	display: inline;
@@ -38,7 +35,6 @@ nav li
 	padding: 15px 8px 5px 8px;
 
 }
-
 .banner
 {
 	background-image:url(bannbg.jpg);
@@ -47,7 +43,6 @@ nav li
 	background-size: 100%;
 	height: 364px;
 }
-
 .bannerright
 {
 	background-image:url(bannerright.jpg);
@@ -55,7 +50,6 @@ nav li
 	width:50%;
 	background-repeat: no-repeat;
 }
-
 .panner
 {
 	font-family: 'MeetMeInBrooklyn-Regular';
@@ -64,7 +58,6 @@ nav li
 	line-height: 115px;
 	letter-spacing: 1px;
 }
-
 .create
 {
 	background-color: #DEDECD;
@@ -76,7 +69,6 @@ nav li
         font-weight: 300;
         line-height: 40px;
 }
-
 .sea
 {
 	color: #ffffff;
@@ -84,25 +76,20 @@ nav li
         font-size: 22px;
         line-height: 29px;
 }
-
 .service
 {
 	background-color: #EEEFE5;
 }
-
-
 .servicesBox 
 {
 	text-align:left;
 	font-size:14px;
 }
-
 .servicesBox1
 {
 	text-align:center;
 	font-size:14px;
 }
-
 .servicesBox1
 {
 	width:100%;
@@ -116,7 +103,6 @@ nav li
 	text-transform: uppercase;
 	margin: 25px 10px 10px 10px;
 }
-
 .webdesign1
 {
 	padding-bottom: 10px;
@@ -124,15 +110,12 @@ nav li
 	text-transform: uppercase;
 	margin: 25px 10px 10px 10px;
 }
-
-
 .design
 {
 	text-align: left;
 	font-size: 14px;
 
 }
-
 .design1
 {
 	text-align: center;
@@ -175,7 +158,9 @@ nav li
         font-weight: 300;
         line-height: 40px;
 }
-.boxbtn{
+
+.boxbtn
+{
 	padding: 30px;
 	margin: 50px 300px 0px 300px;
 	background-color:#d76713;
